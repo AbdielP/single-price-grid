@@ -15,4 +15,39 @@
 
 body {
     font-family: var(--font-karla);
+    background: var(--neutral-light-grey);
+    font-size: 16px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.main {
+    background: #fff;
+    display: grid;
+    width: 85%;
+    border-radius: 5px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.section__title {
+    color: var(--primary-cyan);
+}
+
+.section--padding {
+    box-sizing: border-box;
+    padding: 25px;   
+}
+
+.section__paragraph--yellow {
+    color: var(--primary-bright-yellow);
+}.section__paragraph--grey {
+    color: var(--neutral-grayish-blue);
+}
+
+
