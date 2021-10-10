@@ -37,17 +37,28 @@ body {
 
 .section__title {
     color: var(--primary-cyan);
+    /* margin-bottom: 20px; */
+}
+
+.section__paragraph {
+    margin-top: 20px;
 }
 
 .section--padding {
     box-sizing: border-box;
-    padding: 25px;   
+    padding: 25px 20px;   
 }
 
 .section__paragraph--yellow {
     color: var(--primary-bright-yellow);
+    font-weight: 700;
+    text-shadow: 0 0 2px var(--primary-bright-yellow);
 }.section__paragraph--grey {
     color: var(--neutral-grayish-blue);
+    /* letter-spacing: .5px; */
+    line-height: 1.8;
+    font-size: 14.5px;
+    /* text-align: justify; */
 }
 
 
