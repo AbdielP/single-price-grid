@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./captures/mobile.png)
 ![](./captures/desktop.png)
+![](./captures/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://abdielp.github.io/curve-landing-page/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-grid-flexbox-mobilefirst-workflow-bem-methodology-3J05kat5C)
+- Live Site URL: [Add live site URL here](https://abdielp.github.io/single-price-grid/)
 
 ## My process
 
