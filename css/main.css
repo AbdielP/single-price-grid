@@ -25,11 +25,13 @@ body {
 
 .main {
     min-width: 300px;
-    /* width: 85%; */
     width: 320px;
     background: #fff;
     border-radius: 5px;
-    box-shadow: 0px 20px 35px -22px #818D9E;
+    /* box-shadow: 0px 20px 35px -22px #818D9E; */
+    box-shadow: 0px 10px 25px 4px rgba(150, 164, 184, 0.185);
+    -webkit-box-shadow: 0px 10px 25px 4px rgba(150, 164, 184, 0.185);
+    -moz-box-shadow: 0px 10px 25px 4px rgba(150, 164, 184, 0.185);
     overflow: hidden;
 }
 
@@ -104,10 +106,8 @@ body {
 .section__paragraph--yellow {
     color: var(--primary-bright-yellow);
     font-weight: 700;
-    /* text-shadow: 0 0 2px var(--primary-bright-yellow); */
 }.section__paragraph--grey {
     color: var(--neutral-grayish-blue);
-    /* letter-spacing: .5px; */
     line-height: 1.8;
     font-size: 14.5px;
 }.section__paragraph--enlarge {
@@ -155,7 +155,6 @@ body {
     .section__paragraph--grey {
         font-size: 16px;
         margin-top: 10px;
-        /* padding-right: 2rem; */
     }
 
     .section__paragraph-us {
